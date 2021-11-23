@@ -31,5 +31,5 @@ the query!</p>
 <li> Select which voice would you like(Male/Female).
 <li> When you see the prompt "Listening..." start asking your query.
 <li> If you want to access wikipedia then say "your query + wikipedia". 
-<li> And it will a lot of queries related to science & mathematics. 
+<li> And it will solve a lot of queries related to science & mathematics. 
 </ol>
